@@ -154,10 +154,10 @@ comment:
   cloudTie: ## 网易云跟帖(productKey)
 
 # Friend Links widget. Empty links will hide widget.
-links:
-  - title: site-name1
-    url: http://www.example1.com/
-  - title: site-name2
-    url: http://www.example2.com/
-  - title: site-name3
-    url: http://www.example3.com/
+# links:
+#   - title: site-name1
+#     url: http://www.example1.com/
+#   - title: site-name2
+#     url: http://www.example2.com/
+#   - title: site-name3
+#     url: http://www.example3.com/
